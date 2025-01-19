@@ -6,15 +6,18 @@ The K-Means algorithm aims to partition data into k clusters such that the point
 
 In this implementation, multiple utility functions are provided for:
 
-    Visualizing the clusters and centroids
-    Performing K-Means with multiple trials to avoid local minima
-    Quantizing image colors using K-Means
-    Generating synthetic K-Means data for testing purposes
+Visualizing the clusters and centroids
+Performing K-Means with multiple trials to avoid local minima
+Quantizing image colors using K-Means
+Generating synthetic K-Means data for testing purposes
 
 ## **Libraries and Dependencies**
 
 This project requires the following Python libraries:
 
 numpy: For numerical operations, especially matrix and vector manipulation.
+
 matplotlib: For plotting the clusters and visualizing the results.
+
 itertools: For generating markers for cluster visualization.
+
