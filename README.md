@@ -15,6 +15,6 @@ In this implementation, multiple utility functions are provided for:
 
 This project requires the following Python libraries:
 
-  numpy: For numerical operations, especially matrix and vector manipulation.
-  matplotlib: For plotting the clusters and visualizing the results.
-  itertools: For generating markers for cluster visualization.
+numpy: For numerical operations, especially matrix and vector manipulation.
+matplotlib: For plotting the clusters and visualizing the results.
+itertools: For generating markers for cluster visualization.
