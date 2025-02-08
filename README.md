@@ -1,6 +1,6 @@
-This project implements the K-Means clustering algorithm from scratch. It also includes a variety of utility functions to visualize clusters and perform image quantization. The K-Means algorithm is used to partition data points into k clusters based on their features.
-
 ## **Overview**
+
+This project implements the K-Means clustering algorithm from scratch. It also includes a variety of utility functions to visualize clusters and perform image quantization. The K-Means algorithm is used to partition data points into k clusters based on their features.
 
 The K-Means algorithm aims to partition data into k clusters such that the points within each cluster are as close as possible to each other, while being as far as possible from points in other clusters. It is an iterative algorithm that minimizes the within-cluster sum of squared distances between data points and their corresponding cluster centers (centroids).
 
